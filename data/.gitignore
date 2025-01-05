@@ -1,0 +1,7 @@
+# Ignore all .csv files
+*.csv
+
+# Do not ignore .csv.gz files
+!*.csv.gz
+
+
